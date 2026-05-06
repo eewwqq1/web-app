@@ -15,5 +15,5 @@ spec:
     spec:
       containers:
       - name: nginx-con
-        image: 084550838259.dkr.ecr.ap-northeast-2.amazonaws.com/app:2
+        image: 084550838259.dkr.ecr.ap-northeast-2.amazonaws.com/app:3
 
